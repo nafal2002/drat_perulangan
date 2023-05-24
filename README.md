@@ -14,6 +14,29 @@ Ini adalah tugas kodingan sederhana yang menggunakan bahasa pemrograman Dart. Pr
 ## Contoh Penggunaan
 <img src="hasil/hasil_file.png" alt="kodingan">
 
+...
+
+## Kodingan Contoh 🖥️
+
+Berikut adalah contoh kode sederhana dalam bahasa pemrograman Dart:
+
+```dart
+import 'dart:io';
+
+void main() {
+  stdout.write("Jumlah perulangan: ");
+  int n = int.parse(stdin.readLineSync()!);
+
+  for (int i = 1; i <= n; i++) {
+    if (i % 2 == 0) {
+      print("Perulangan ke-$i");
+    } else {
+      print("Cyber");
+    }
+  }
+}
+
+
 Output:
 <img src="hasil/output_file.png" alt="Hasil yah">
 
