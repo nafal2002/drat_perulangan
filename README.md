@@ -15,7 +15,7 @@ Ini adalah tugas kodingan sederhana yang menggunakan bahasa pemrograman Dart. Pr
 <img src="hasil/hasil_file.png" alt="kodingan">
 
 Output:
-<img src="hasil/output_file.jpg" alt="Hasil yah">
+<img src="hasil/output_file.png" alt="Hasil yah">
 
 ## Kontribusi
 
